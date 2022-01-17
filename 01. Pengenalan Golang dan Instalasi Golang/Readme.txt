@@ -1,0 +1,1 @@
+Silahkan Install dulu aplikasi visual studio code dan golang
